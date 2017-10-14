@@ -4,7 +4,7 @@ emaila: libinngeorge@gmail.com
 email: 111501015@smail.iitpkd.ac.in
 url: https://libin-n-g.github.io/MyProfile/
 description: "I am undergraduate student of Indian Institute of India, Palakkad persuing B.Tech Computer science and Engineering "
-
+baseurl: /MyProfile
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
