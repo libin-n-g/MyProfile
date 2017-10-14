@@ -140,6 +140,7 @@ a:focus {
     color: #fff;
     background: url({{ site.baseurl }}/img/intro-bg.jpg) no-repeat bottom center scroll;
     background-color: {{ site.color.primary-dark }};
+    background-attachment: fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
