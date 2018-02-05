@@ -25,7 +25,10 @@ social:
     url: http://bitbucket.org/libinngeorge
   - title: github
     url: https://github.com/libin-n-g
-
+  - title: linkedin
+    url: https://www.linkedin.com/in/libin-n-george-126b3195
+    
+download: https://libin-n-g.github.io/MyProfile/Libin_N_George.pdf
 # Build settings
 markdown: kramdown
 permalink: pretty
