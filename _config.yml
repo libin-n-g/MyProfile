@@ -1,9 +1,9 @@
 # Site settings
 title: Libin N George
 emaila: libinngeorge@gmail.com
-email: 111501015@smail.iitpkd.ac.in
+email: libinngeorge@arizona.edu
 url: https://libin-n-g.github.io/MyProfile/
-description: "I am undergraduate student of Indian Institute of Technology, Palakkad persuing B.Tech Computer science and Engineering "
+description: "I am currently pursuing a Master in Information Science with a focus on Machine Learning, after completing my Bachelor’s in Computer Science and Engineering with honors from IIT Palakkad. I have a deep interest in machine learning, software development, and programming, and I am passionate about leveraging these skills to develop innovative solutions to complex problems. My academic and project experience has allowed me to explore various aspects of AI and software engineering, and I am excited to continue growing in these fields. "
 baseurl: /MyProfile
 # Color settings (hex-codes without the leading hash-tag)
 color:
